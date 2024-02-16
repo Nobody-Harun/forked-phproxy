@@ -1,3 +1,5 @@
+> **updated PHP v8.x**
+
 ## PHProxy
 [![AUR](https://img.shields.io/badge/style-GPL--3.0-blue.svg?style=flat&label=License)](https://github.com/azetrix/ShortLink/blob/master/LICENSE)
 
